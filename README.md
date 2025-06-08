@@ -1,2 +1,2 @@
 # Machine-Learning-one-step-away-to-AI
-This repository contains machine learning models. You can implement learning algorithms and use the models to solve various tasks. This is an open source project.
+This public repository contains the testing of my implementations of machine learning algorithms and models from ground up (scratch). You can as well implement learning algorithms and use the models to solve various tasks.
